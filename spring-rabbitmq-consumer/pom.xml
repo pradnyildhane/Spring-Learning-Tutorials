@@ -58,6 +58,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-rabbitmq-consumer</finalName>
 	</build>
 
 </project>
